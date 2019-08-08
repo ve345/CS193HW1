@@ -24,8 +24,6 @@ Rename `Homework/MA165/HW2.txt` to `HW1.txt`
 
 
 
-
-
 #### Task 2
 
 Make a new directory in `Programs` called `C++`
@@ -41,3 +39,13 @@ Move `Programs/Age.cpp` to the newly created `C++` directory made in Task 2.
 #### Task 4
 
 Copy `Programs/Hello.java` and `Programs/Purdue.java` to `Homework/Java`
+
+
+
+#### Task 5
+
+Delete the `Homework/CS191` directory
+
+
+
+#### Task 6
