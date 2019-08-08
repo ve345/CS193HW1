@@ -8,13 +8,9 @@
 
 For this assignment, you will be making a basic shell script to make some changes to a file system.  A shell script is a useful tool for running multiple terminal commands sequentially.  For this assignment, all your answers will be placed in the `answers.sh` file.  
 
-
-
 **ALL COMMANDS SHOULD BE FROM THE `ORIGIN` DIRECTORY!!!!!**
 
 For instance `mv Hello.java Hello2.java` would not be an acceptable answer for renaming Hello.java to Hello2.java, since there does not exist Hello.java in the `ORIGIN` directory.  Instead, the proper answer would be `mv Programs/Hello.java Programs/Hello2.java`.
-
-
 
 **EVERY ANSWER SHOULD ONLY BE A SINGLE COMMAND!!!!!**
 
@@ -26,26 +22,63 @@ Rename `Homework/MA165/HW2.txt` to `HW1.txt`
 
 #### Task 2
 
-Make a new directory in `Programs` called `C++`
+Delete `Memes/Spongebob/money.jpg` (it wasn't funny enough to make it into the memes folder).
 
-#### 
+
 
 #### Task 3
 
-Move `Programs/Age.cpp` to the newly created `C++` directory made in Task 2.  
+Move `fafsa.jpg` from the Star Wars meme folder to `Memes/Spongebob` (Spongebob memes don't belong in the Star Wars folder).
 
 
 
 #### Task 4
 
-Copy `Programs/Hello.java` and `Programs/Purdue.java` to `Homework/Java`
+Delete the `Homework/CS191` directory
 
 
 
 #### Task 5
 
-Delete the `Homework/CS191` directory
+Make a new directory in `Programs` called `C++`
 
 
 
 #### Task 6
+
+Copy the `Programs/Java` directory into the `Homework/CS180` folder, while renaming the new directory `Project_1`
+
+
+
+#### Task 7
+
+Move `Programs/Age.cpp` to the newly created `C++` directory made in Task 2.  
+
+
+
+#### Task 8
+
+Move `Programs/Count.c` and `Programs/Goodbye.c` to the `Programs/C` directory.
+
+
+
+#### Task 9
+
+Move `Programs/Name.py` and `Programs/Space.py` to the Python 3 folder in the Programs directory.
+
+
+
+#### Task 10
+
+Delete the `Homework/CS191` directory
+
+
+#### Task 11
+
+List the files and directories above the current working directory.
+
+
+
+#### Task 12
+
+List the files in the Star Wars meme folder.
