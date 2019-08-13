@@ -160,4 +160,5 @@ else
     echo -e "\e[91mAlias incorrect\e[0m" 
 fi
 
-echo -e "\n\e[92mFinal Score: $POINTS/100\e[0m"
+echo -e "\n\e[1;96mYou get 4 points for free!!!\e[0m"
+echo -e "\e[92mFinal Score: $POINTS/100\e[0m"

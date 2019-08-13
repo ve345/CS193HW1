@@ -1,6 +1,6 @@
-# CS193HW2
 
-## Homework 2 - Terminal
+
+# Terminal (Homework 2)
 
 <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png" alt="Terminal_Icon" width="250"/>
 
@@ -13,6 +13,20 @@ For this assignment, you will be making a basic shell script to make some change
 For instance `mv Hello.java Hello2.java` would not be an acceptable answer for renaming Hello.java to Hello2.java, since there does not exist Hello.java in the `ORIGIN` directory.  Instead, the proper answer would be `mv Programs/Hello.java Programs/Hello2.java`.
 
 **EVERY ANSWER SHOULD ONLY BE A SINGLE COMMAND!!!!!**
+
+
+
+## NEED HELP?
+
+Take a look at the **Terminal_Guide.md** file in the repository.  This document reviews the content found in Lecture 3.  Everything you need to complete this assignment can be found there.  If you need extra help, ask a TA, ask on Piazza, or Google around.  **DO NOT COPY DIRECTLY FROM ANOTHER STUDENT**
+
+
+
+## Tasks
+
+---
+
+
 
 #### Task 1
 
