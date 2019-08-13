@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# Changes to the ORIGIN directory
+cd ORIGIN
+
 # Task 1 
 
 

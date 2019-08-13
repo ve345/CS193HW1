@@ -60,4 +60,4 @@ List the files and directories above the current working directory.
 
 #### Task 12
 
-Create an alias `ll` for the command `ls -al` in your`~/.bashrc`. 
+Create an alias `wttr` for the command `curl wttr.in` in your`~/.bashrc`. 
