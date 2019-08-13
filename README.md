@@ -18,67 +18,46 @@ For instance `mv Hello.java Hello2.java` would not be an acceptable answer for r
 
 Rename `Homework/MA165/HW2.txt` to `HW1.txt`
 
-
-
 #### Task 2
 
-Delete `Memes/Spongebob/money.jpg` (it wasn't funny enough to make it into the memes folder).
-
-
+Delete `Memes/Spongebob/money.jpeg` (it wasn't funny enough to make it into the memes folder).
 
 #### Task 3
 
 Move `fafsa.jpg` from the Star Wars meme folder to `Memes/Spongebob` (Spongebob memes don't belong in the Star Wars folder).
 
-
-
 #### Task 4
 
 Delete the `Homework/CS191` directory
-
-
 
 #### Task 5
 
 Make a new directory in `Programs` called `C++`
 
-
-
 #### Task 6
 
-Copy the `Programs/Java` directory into the `Homework/CS180` folder, while renaming the new directory `Project_1`
-
-
+Move `Programs/Age.cpp` to the newly created `C++` directory made in Task 2.
 
 #### Task 7
 
-Move `Programs/Age.cpp` to the newly created `C++` directory made in Task 2.  
-
-
+Copy the `Programs/Java` directory into the `Homework/CS180` folder, while renaming the new directory `Project_1`
 
 #### Task 8
 
 Move `Programs/Count.c` and `Programs/Goodbye.c` to the `Programs/C` directory.
 
-
-
 #### Task 9
 
 Move `Programs/Name.py` and `Programs/Space.py` to the Python 3 folder in the Programs directory.
 
-
-
 #### Task 10
 
-Delete the `Homework/CS191` directory
-
+Make a new file in `Homework/POL141` called `Essay.txt`.
 
 #### Task 11
 
 List the files and directories above the current working directory.
 
-
-
 #### Task 12
 
-List the files in the Star Wars meme folder.
+Create an alias `ll` for the command `ls -al` in your`~/.bashrc`. 
