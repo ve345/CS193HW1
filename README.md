@@ -14,7 +14,7 @@ Homework 2 is due on 16 September 2019 at 11:59Pm EDT.
 
 You will be finished with the assignment when you have a functional **SINGLE COMMAND** for each of the 12 tasks.  In order to test your commands, run `./grader.sh` in terminal.  This program will let you know which command is not functionally properly.  Please note that the grade you recieve with the `grader.sh` is not your guarenteed grade on homework 2.  Your TA will still go through your commands to ensure that you only use a single command for each of the tasks.  
 
-### How do I reset my ORIGIN directory?
+## How do I reset my ORIGIN directory?
 
 Simply run `./clean.sh`. This will reset your `ORIGIN` directory without deleting your answers in `answers.sh`. It is like nothing ever happened!
 
