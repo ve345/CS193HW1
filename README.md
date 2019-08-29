@@ -34,7 +34,7 @@ If you need extra help, ask a TA, ask on Piazza, or Google around.  **DO NOT COP
    
    * Mac & Linux: Just open terminal
    
-   * If you are having issues, it might just be easier to use a lab machine in LWSN or HAAS
+   * If you are having issues, it might just be easier to use a lab machine in Lawson or Haas
 
 2. Click the green "Clone or download" button on this GitHub repository and copy the URL.
 
