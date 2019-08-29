@@ -3,7 +3,7 @@ clear
 echo -e "\e[1;34mWelcome the CS 193 Homework 2 Grader!\e[0m"
 source ~/.bashrc
 
-POINTS=4
+POINTS=0
 
 ./clean.sh
 echo "ORIGIN Directory Reset"
@@ -158,4 +158,4 @@ else
     echo -e "\e[91mAlias incorrect\e[0m" 
 fi
 
-echo -e "\e[92mFinal Score: $POINTS/100\e[0m"
+echo -e "\e[92mFinal Score: $POINTS/20\e[0m"
