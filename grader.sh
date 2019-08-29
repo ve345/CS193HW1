@@ -141,7 +141,7 @@ echo -e "\n\e[1;34mTask 11\e[0m"
 
 FILES=$(ls)
 if [ "$FILES" = "$OUTPUT" ]; then 
-    echo -e "\e[92mCommand correct\e[0m"
+    echo -e "\e[92mCommand correct: +2 points\e[0m"
     ((POINTS=$POINTS + 2))
 else 
     echo -e "\e[91mCommand incorrect\e[0m" 
@@ -152,7 +152,7 @@ fi
 echo -e "\n\e[1;34mTask 12\e[0m"
 
 if [ "$(alias wttr)" = "alias wttr='curl wttr.in'" ] ; then 
-    echo -e "\e[92mAlias correct\e[0m"
+    echo -e "\e[92mAlias correct: +2 points\e[0m"
     ((POINTS=$POINTS + 2))
 else 
     echo -e "\e[91mAlias incorrect\e[0m" 
