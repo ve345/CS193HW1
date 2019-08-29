@@ -26,8 +26,6 @@ Try different things out by typing out commands in terminal.  It is okay to mess
 
 If you need extra help, ask a TA, ask on Piazza, or Google around.  **DO NOT COPY DIRECTLY FROM ANOTHER STUDENT**
 
-
-
 ## Getting Start
 
 1. Open a terminal window 
@@ -38,7 +36,7 @@ If you need extra help, ask a TA, ask on Piazza, or Google around.  **DO NOT COP
    
    * If you are having issues, it might just be easier to use a lab machine in LWSN or HAAS
 
-2. Click the green "Clone or download" button and copy the URL.
+2. Click the green "Clone or download" button on this GitHub repository and copy the URL.
 
 3. In terminal, run `git clone URL`, replacing URL with what you copied in step 2.  (It will ask for GitHub credentials)
 
