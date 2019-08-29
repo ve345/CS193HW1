@@ -4,4 +4,4 @@ rm -rf ORIGIN
 
 mkdir ORIGIN
 
-cp -r assets/* ORIGIN
+cp -r .DO_NOT_DELETE/* ORIGIN

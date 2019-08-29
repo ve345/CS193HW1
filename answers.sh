@@ -36,4 +36,5 @@ cd ORIGIN
 # Task 11
 
 
-# Task 12 is done in ~/.bashrc
+# Task 12
+
