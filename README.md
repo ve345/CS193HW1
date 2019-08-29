@@ -110,7 +110,7 @@ Create an alias `wttr` for the command `curl wttr.in` in your`~/.bashrc`.
 
 4. Finally run `git push` (it will ask for your GitHub credentials)
 
-5. Verify that your answers have been submited by opening your GitHub repository online and checking the `answers.sh` file.  
+5. Verify that your answers have been submitted by opening your GitHub repository online and checking the `answers.sh` file.  
 
 6. You are done! Yay!!!
 
