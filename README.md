@@ -12,33 +12,21 @@ Homework 2 is due on 16 September 2019 at 11:59Pm EDT.
 
 ## When will I know that I am done?
 
-You will be finished with the assignment when you have a functional **SINGLE COMMAND** for each of the 12 tasks.  In order to test your commands, run `./grader.sh` in terminal.  This program will let you know which command is not functionally properly.  Please note that the grade you recieve with the `grader.sh` is not your guarenteed grade on homework 2.  Your TA will still go through your commands to ensure that you only use a single command for each of the tasks.  
-
-## How do I reset my ORIGIN directory?
-
-Simply run `./clean.sh`. This will reset your `ORIGIN` directory without deleting your answers in `answers.sh`. It is like nothing ever happened!
-
-## NEED HELP?
-
-Take a look at the **Terminal_Guide.md** file in the repository.  This document reviews the content found in lecture.  Everything you need to complete this assignment can be found there.  
-
-Try different things out by typing out commands in terminal.  It is okay to mess up.  Simply run `./clean.sh` to revert any changes.  The best way to learn is to experiment!
-
-If you need extra help, ask a TA, ask on Piazza, or Google around.  **DO NOT COPY DIRECTLY FROM ANOTHER STUDENT**
+You will be finished with the assignment when you have a functional **SINGLE COMMAND** for each of the 12 tasks. In order to test your commands, run `./grader.sh` in terminal. This program will let you know which command is not functionally properly. Please note that the grade you recieve with the `grader.sh` is not your guarenteed grade on homework 2. Your TA will still go through your commands to ensure that you only use a single command for each of the tasks.
 
 ## Getting Start
 
-1. Open a terminal window 
+1. Open a terminal window
    
-   * Windows: Use Windows Subsystem for Linux (might need some configuration) or Git Bash
+   - Windows: Use Windows Subsystem for Linux (might need some configuration) or Git Bash
    
-   * Mac & Linux: Just open terminal
+   - Mac & Linux: Just open terminal
    
-   * If you are having issues, it might just be easier to use a lab machine in Lawson or Haas
+   - If you are having issues, it might just be easier to use a lab machine in Lawson or Haas
 
 2. Click the green "Clone or download" button on this GitHub repository and copy the URL.
 
-3. In terminal, run `git clone URL`, replacing URL with what you copied in step 2.  (It will ask for GitHub credentials)
+3. In terminal, run `git clone URL`, replacing URL with what you copied in step 2. (It will ask for GitHub credentials)
 
 4. You are ready to go!
 
@@ -98,7 +86,9 @@ List the files and directories above the current working directory.
 
 #### Task 12
 
-Create an alias `wttr` for the command `curl wttr.in` in your`~/.bashrc`. 
+Create an alias `wttr` for the command `curl wttr.in` in your`~/.bashrc`.
+
+
 
 ## Turning In
 
@@ -110,7 +100,7 @@ Create an alias `wttr` for the command `curl wttr.in` in your`~/.bashrc`.
 
 4. Finally run `git push` (it will ask for your GitHub credentials)
 
-5. Verify that your answers have been submitted by opening your GitHub repository online and checking the `answers.sh` file.  
+5. Verify that your answers have been submitted by opening your GitHub repository online and checking the `answers.sh` file.
 
 6. You are done! Yay!!!
 
@@ -131,3 +121,29 @@ Create an alias `wttr` for the command `curl wttr.in` in your`~/.bashrc`.
 | Task 11 | 2      |
 | Task 12 | 2      |
 | Total   | 20     |
+
+
+
+## FAQ
+
+### How do I reset my ORIGIN directory?
+
+Simply run `./clean.sh`. This will reset your `ORIGIN` directory without deleting your answers in `answers.sh`. It is like nothing ever happened!
+
+### NEED HELP?
+
+Take a look at the **Terminal_Guide.md** file in the repository.  This document reviews the content found in lecture.  Everything you need to complete this assignment can be found there.  
+
+Try different things out by typing out commands in terminal.  It is okay to mess up.  Simply run `./clean.sh` to revert any changes.  The best way to learn is to experiment!
+
+If you need extra help, ask a TA, ask on Piazza, or Google around.  **DO NOT COPY DIRECTLY FROM ANOTHER STUDENT**
+
+## 
+
+
+
+## 
+
+
+
+
