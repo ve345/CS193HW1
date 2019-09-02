@@ -18,7 +18,7 @@ You will be finished with the assignment when you have a functional **SINGLE COM
 
 1. Open a terminal window
    
-   - Windows: Use Windows Subsystem for Linux (might need some configuration) or Git Bash
+   - Windows: Use [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) (might need some configuration) or [Git Bash](https://gitforwindows.org/)
    
    - Mac & Linux: Just open terminal
    
@@ -28,7 +28,7 @@ You will be finished with the assignment when you have a functional **SINGLE COM
 
 3. In terminal, run `git clone URL`, replacing URL with what you copied in step 2. (It will ask for GitHub credentials)
 
-4. You are ready to go!
+4. You are ready to go!  Start typing your answers in `answers.sh`.  
 
 ## Important Notes!!!! (Please read!!!)
 
@@ -42,7 +42,7 @@ For instance `mv Hello.java Hello2.java` would not be an acceptable answer for r
 
 #### Task 1
 
-Rename `Homework/MA165/HW2.txt` to `HW1.txt`
+Rename `Homework/MA165/HW2.txt` to `HW1.txt`.
 
 #### Task 2
 
@@ -54,11 +54,11 @@ Move `fafsa.jpg` from the Star Wars meme folder to `Memes/Spongebob` (Spongebob 
 
 #### Task 4
 
-Delete the `Homework/CS191` directory
+Delete the `Homework/CS191` directory.
 
 #### Task 5
 
-Make a new directory in `Programs` called `C++`
+Make a new directory in `Programs` called `C++`.
 
 #### Task 6
 
@@ -66,7 +66,7 @@ Move `Programs/Age.cpp` to the newly created `C++` directory made in Task 2.
 
 #### Task 7
 
-Copy the `Programs/Java` directory into the `Homework/CS180` folder, while renaming the new directory `Project_1`
+Copy the `Programs/Java` directory into the `Homework/CS180` folder, while renaming the `Java` directory `Project_1`.
 
 #### Task 8
 
@@ -86,21 +86,17 @@ List the files and directories above the current working directory.
 
 #### Task 12
 
-Create an alias `wttr` for the command `curl wttr.in` in your`~/.bashrc`.
+Create an alias `wttr` for the command `curl wttr.in` .  Typically aliases would be created in `.bashrc`, however for the purposes of this homework, simply type the alias in `answers.sh`.
 
 ## Turning In
 
 1. Make sure all your commands are saved in `answers.sh`!
 
-2. Run `git add -A` in terminal
+2. Run `./turn-in.sh` (it will ask for your GitHub username and password)
 
-3. Run `git commit -m "Done!"` in terminal
+3. Verify that your answers have been submitted by opening your GitHub repository online and checking the `answers.sh` file.
 
-4. Finally run `git push` (it will ask for your GitHub credentials)
-
-5. Verify that your answers have been submitted by opening your GitHub repository online and checking the `answers.sh` file.
-
-6. You are done! Yay!!!
+4. You are done! Yay!!!
 
 ## Rubric
 
@@ -133,7 +129,3 @@ Take a look at the **Terminal_Guide.md** file in the repository.  This document 
 Try different things out by typing out commands in terminal.  It is okay to mess up.  Simply run `./clean.sh` to revert any changes.  The best way to learn is to experiment!
 
 If you need extra help, ask a TA, ask on Piazza, or Google around.  **DO NOT COPY DIRECTLY FROM ANOTHER STUDENT**
-
-## 
-
-## 

@@ -1,7 +1,5 @@
 # Basic UNIX Terminal Guide
 
-
-
 ## pwd (Print Working Directory)
 
 #### Description
@@ -33,8 +31,6 @@ Path to the folder you want to see the contents of (Leave blank to see current f
 #### Example
 
 `$ ls -al`
-
-
 
 ## cd (Change Directory)
 
@@ -80,10 +76,6 @@ Path to the folder/file you want to delete
 
 `rm -rf ~/Documents/Junk`
 
-
-
-
-
 ## mv (Move)
 
 #### Description
@@ -102,8 +94,6 @@ Move an existing file somewhere else.  It can also be used to rename files.
 
 `$ mv ~/old_name.txt ~/new_name.txt`
 
-
-
 ## cp (Copy)
 
 #### Description
@@ -121,8 +111,6 @@ Copy files or folders to a new location
 `$ cp ~/Documents/source/file.txt ~/Documents/destination/file.txt`
 
 `$ cp ~/Desktop/Name.java ~/Desktop/Age.java ~/CS180/Homework_1`
-
-
 
 ## clear
 
@@ -162,8 +150,6 @@ Kill all programs with the specified program_name
 
 `killall firefox`
 
-
-
 ## touch
 
 #### Description
@@ -182,11 +168,23 @@ The files that are to be created
 
 `touch ~/Documents/file1.txt ~/CS193/HW2/file2.txt`
 
-
-
 ## Other Content
 
-#### Shortcuts
+### Files and Folders with Spaces
+
+If a path includes files or folders with spaces, either use quotations marks (" ") or a backslash (\\) before the space.  For example:
+
+`~/"My Files"/test.txt` 
+
+or
+
+`~/My\ Files/test.text`
+
+
+
+
+
+### Shortcuts
 
 - `~` - Home Directory
 
@@ -202,8 +200,6 @@ The files that are to be created
 
 3. Save file, tell bash to reload: `$ source ~/.bashrc`
 
-
-
 ### Wildcards
 
 #### Description
@@ -217,8 +213,6 @@ They can be used with nearly any UNIX command.
 * `cp ~/Desktop/*.java ~/Documents/Project` 
   
   * This command will copy all `.java` files found in the Desktop directory into the `Documents/Project` folder.  
-
-
 
 * `mv ~/Desktop/file* ~/Documents`
   
