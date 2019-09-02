@@ -10,7 +10,6 @@ Prints path of current directory. (Think: what is the address of the folder I’
 
 `$ pwd`
 
-## 
 
 ## ls (List)
 
@@ -50,7 +49,6 @@ Exact path of the folder you want to move to, or just a subdirectory
 
 `cd ~/Documents`
 
-## 
 
 ## rm (Remove)
 
@@ -122,7 +120,6 @@ Clear the Terminal Screen
 
 `$ clear`
 
-## 
 
 ## top
 
@@ -133,8 +130,6 @@ See what programs are currently running
 #### Example
 
 `$ top`
-
-## 
 
 ## killall
 
@@ -179,8 +174,6 @@ If a path includes files or folders with spaces, either use quotations marks (" 
 or
 
 `~/My\ Files/test.text`
-
-
 
 
 
