@@ -91,8 +91,7 @@ List the files and directories above the current working directory.
 
 #### Task 12
 
-Create an alias `wttr` for the command `curl wttr.in` .  Typically aliases would be created in `.bashrc`, however for the purposes of this homework, simply type the alias in `answers.sh`.
-
+Create an alias `wttr` for the command `curl wttr.in` .  You will need to create the alias in you `bash.rc` in order to pass the test case in `grader.sh`.  Please also put your alias under `# Task 12` in `answers.sh`.
 ## Turning In
 
 1. Make sure all your commands are saved in `answers.sh`!
