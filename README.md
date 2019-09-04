@@ -14,7 +14,7 @@ Homework 2 is due on 16 September 2019 at 11:59PM EDT.
 
 * You will be finished with the assignment when you have a functional **SINGLE COMMAND** for each of the 12 tasks in your `answers.sh` file.
 
-* In order to test your commands, run `./grader.sh` in terminal. This program will let you know which command is not functionally properly.
+* In order to test your commands, run `bash -i grader.sh` in terminal. This program will let you know which command is not functionally properly.
    * Please note that the grade you receive with the `grader.sh` is not your guaranteed grade on homework 2. Your TA will still go through your commands to ensure that you only use a single command for each of the tasks.
 
 
@@ -91,7 +91,7 @@ List the files and directories above the current working directory.
 
 #### Task 12
 
-Create an alias `wttr` for the command `curl wttr.in`. You will need to create the alias in your `.bashrc` or `.bash_profile` (macOS only) in order to pass the test case in `grader.sh`. To get the homework points, please put your alias under `# Task 12` in answers.sh.
+Create an alias `wttr` for the command `curl wttr.in`. You will need to create the alias in your `.bashrc` or `.bash_profile` (macOS only) in order to pass the test case in `grader.sh`. To get the homework points, please put the command you used to create the alias under `# Task 12` in answers.sh.
 
 ## Turning In
 
