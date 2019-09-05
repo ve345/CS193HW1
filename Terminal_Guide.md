@@ -187,9 +187,9 @@ or
 
 ### Aliases
 
-1. Aliases are set in `~./bashrc`
+1. Aliases are set in `~/.bashrc`
 
-2. Add a line to `~./bashrc` that looks like: `alias <shortcut>=“<command>”`
+2. Add a line to `~/.bashrc` that looks like: `alias <shortcut>=“<command>”`
 
 3. Save file, tell bash to reload: `$ source ~/.bashrc`
 
