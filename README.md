@@ -55,7 +55,7 @@ Delete `Memes/Spongebob/money.jpeg` (it wasn't funny enough to make it into the 
 
 #### Task 3
 
-Move `fafsa.jpg` from the Star Wars meme folder to `Memes/Spongebob` (Spongebob memes don't belong in the Star Wars folder).
+Move `fafsa.jpg` from the Star Wars meme folder to `Memes/SpongeBob` (SpongeBob memes don't belong in the Star Wars folder).
 
 #### Task 4
 
