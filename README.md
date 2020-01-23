@@ -15,7 +15,7 @@ Homework 2 is due on 16 September 2019 at 11:59PM EDT.
 * You will be finished with the assignment when you have a functional **SINGLE COMMAND** for each of the 12 tasks in your `answers.sh` file.
 
 * In order to test your commands, run `bash -i grader.sh` in terminal. This program will let you know which command is not functionally properly.
-   * Please note that the grade you receive with the `grader.sh` is not your guaranteed grade on homework 2. Your TA will still go through your commands to ensure that you only use a single command for each of the tasks.
+   * Please note that the grade you receive with the ` bash -i grader.sh` is not your guaranteed grade on homework 2. Your TA will still go through your commands to ensure that you only use a single command for each of the tasks.
 
 
 
@@ -23,15 +23,17 @@ Homework 2 is due on 16 September 2019 at 11:59PM EDT.
 
 1. Open a terminal window
    
-   - Windows: Use [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) (might need some configuration) or [Git Bash](https://gitforwindows.org/)
+   - Windows: Open up PowerShell
    
-   - Mac & Linux: Just open terminal
+   - Mac & Linux: Open Terminal
    
    - If you are having issues, it might just be easier to use a lab machine in Lawson or Haas
 
 2. Click the green "Clone or download" button on this GitHub repository and copy the URL.
 
-3. In terminal, run `git clone URL`, replacing URL with what you copied in step 2. (It will ask for GitHub credentials)
+3. Open up your respective terminal application and run `ssh purdue_username@data.cs.purdue.edu`.  Replace "purdue_username" with you Purdue username.  It will prompt you to enter your Purdue password. 
+
+3. Run `git clone URL`, replacing URL with what you copied in step 2. (It will ask for GitHub credentials)
 
 4. You are ready to go!  Start typing your answers in `answers.sh`.  
 
@@ -91,7 +93,7 @@ List the files and directories above the current working directory.
 
 #### Task 12
 
-Create an alias `wttr` for the command `curl wttr.in`. You will need to create the alias in your `.bashrc` or `.bash_profile` (macOS only) in order to pass the test case in `grader.sh`. To get the homework points, please put the command you used to create the alias under `# Task 12` in answers.sh.
+Create an alias `wttr` for the command `curl wttr.in`. You will need to create the alias in your `.bashrc` in order to pass the test case with `bash -i ./grader.sh`. To get the homework points, please put the command you used to create the alias under `# Task 12` in answers.sh.
 
 ## Turning In
 
