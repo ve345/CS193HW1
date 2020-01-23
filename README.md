@@ -4,7 +4,7 @@
 
 ## What is this assignment?
 
-For this assignment, you will be making a basic shell script to make some changes to a file system.  A shell script is a useful tool for running multiple terminal commands sequentially.  For this assignment, all your answers will be placed in the `answers.sh` file.  Open `answers.sh` in your favorite text editor to answer (e.g. Notepad, gedit, Visual Studio Code, vim, etc.).
+For this assignment, you will be making a basic shell script to make some changes to a file system.  A shell script is a useful tool for running multiple terminal commands sequentially.  For this assignment, all your answers will be placed in the `answers.sh` file.
 
 ## When is this due?
 
@@ -35,7 +35,7 @@ Homework 2 is due on 16 September 2019 at 11:59PM EDT.
 
 3. Run `git clone URL`, replacing URL with what you copied in step 2. (It will ask for GitHub credentials)
 
-4. You are ready to go!  Start typing your answers in `answers.sh`.  
+4. You are ready to go!  Start typing your answers in `answers.sh`.  To edit `answers.sh` type in either `vim answers.sh` or `nano answers.sh`.  Use the editor that you prefer.  
 
 ## Important Notes!!!! (Please read!!!)
 
@@ -93,7 +93,7 @@ List the files and directories above the current working directory.
 
 #### Task 12
 
-Create an alias `wttr` for the command `curl wttr.in`. You will need to create the alias in your `.bashrc` in order to pass the test case with `bash -i ./grader.sh`. To get the homework points, please put the command you used to create the alias under `# Task 12` in answers.sh.
+Create an alias `wttr` for the command `curl wttr.in`. You will need to create the alias in your `.bashrc` in order to pass the test case with `bash -i grader.sh`. To get the homework points, please put the command you used to create the alias under `# Task 12` in answers.sh.
 
 ## Turning In
 
