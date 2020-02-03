@@ -69,7 +69,7 @@ Make a new directory in `Programs` called `C++`.
 
 #### Task 6
 
-Move `Programs/Age.cpp` to the newly created `C++` directory made in Task 2.
+Move `Programs/Age.cpp` to the newly created `C++` directory made in Task 5.
 
 #### Task 7
 
