@@ -1,4 +1,4 @@
-# CS 193 Homework 2 - Terminal
+# CS 193 Homework 1 - Terminal
 
 <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png" alt="Terminal_Icon" width="250"/>
 
@@ -8,7 +8,7 @@ For this assignment, you will be making a basic shell script to make some change
 
 ## When is this due?
 
-Homework 2 is due on 12 February 2020 at 11:59PM EST.
+Homework 1 is due on 12 February 2020 at 11:59PM EST.
 
 ## When will I know that I am done?
 
