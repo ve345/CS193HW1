@@ -43,7 +43,8 @@ Homework 1 is due on 18 September 2020 at 11:59PM EDT.
 
 For instance `mv Hello.java Hello2.java` would not be an acceptable answer for renaming Hello.java to Hello2.java, since there does not exist Hello.java in the `ORIGIN` directory. Instead, the proper answer would be `mv Programs/Hello.java Programs/Hello2.java`.
 
-**EVERY ANSWER SHOULD ONLY BE A SINGLE COMMAND!!!!! Please note the difference between a chain of commands and a single command**
+**EVERY ANSWER SHOULD ONLY BE A SINGLE COMMAND!!!!! 
+Please note the difference between a chain of commands and a single command**
 
 ## Tasks
 
