@@ -45,8 +45,8 @@ For instance `mv Hello.java Hello2.java` would not be an acceptable answer for r
 
 **EVERY ANSWER SHOULD ONLY BE A SINGLE COMMAND!!!!! <br>
 Please note the difference between a chain of commands and a single command** <br>
-Chain of commands: `mv Example/Count.java Example/Java/Count.java && mv Example/Hello.java Example/Java/Hello.java`
-Single Command: `mv Example/*.java Example/Java`
+*Chain of commands:* `mv Example/Count.java Example/Java/Count.java && mv Example/Hello.java Example/Java/Hello.java`<br>
+*Single Command:* `mv Example/*.java Example/Java`
 
 ## Tasks
 
