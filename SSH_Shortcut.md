@@ -7,4 +7,4 @@ It can be tedious to remember different usernames, hostnames, IP addresses, and 
 SSH on \*NIX machines, such as Linux or Mac, have default shortcut functionality, which makes it straight forward to set up too. 
 
 ### Step 1
-Navigate to your .ssh folder:
+Navigate to your .ssh folder on your local machine: `cd ~/.ssh`
