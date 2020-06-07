@@ -210,3 +210,10 @@ They can be used with nearly any UNIX command.
 * `mv ~/Desktop/file* ~/Documents`
   
   * This command will copy all files that begin with "file" in the name into the `Documents` directory.
+
+### Vim Customization
+
+From Lecture 2, you should have learned about how Vim enables commands by typing colon ":" followed by your command. However, there are some commands you don't want to have to type every time. For example, it's pretty normal to want line numbers whenever you open a file. But having to type `:set number` every time you run Vim kinda sucks. How can we avoid this?
+
+Your `~/.vimrc` (Vim Run Control) file controls what commands will run every time vim is invoked. You can customize it to your heart's content.
+
