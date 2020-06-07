@@ -8,14 +8,14 @@ For this assignment, you will be making a basic shell script to make some change
 
 ## When is this due?
 
-Homework 1 is due on 12 February 2020 at 11:59PM EST.
+Homework 1 is due on 18 September 2020 at 11:59PM EDT.
 
 ## When will I know that I am done?
 
 * You will be finished with the assignment when you have a functional **SINGLE COMMAND** for each of the 12 tasks in your `answers.sh` file.
 
 * In order to test your commands, run `bash -i grader.sh` in terminal. This program will let you know which command is not functionally properly.
-   * Please note that the grade you receive with the ` bash -i grader.sh` is not your guaranteed grade on homework 2. Your TA will still go through your commands to ensure that you only use a single command for each of the tasks.
+   * Please note that the grade you receive with the ` bash -i grader.sh` is not your guaranteed grade on homework 1. Your TA will still go through your commands to ensure that you only use a single command for each of the tasks.
 
 
 
@@ -29,9 +29,9 @@ Homework 1 is due on 12 February 2020 at 11:59PM EST.
    
    - If you are having issues, it might just be easier to use a lab machine in Lawson or Haas
 
-2. Click the green "Clone or download" button on this GitHub repository and copy the URL.
+2. Click the green "Clone or download" button on this GitHub repository and copy the URL. Make sure you are using the option "Clone with HTTPS".
 
-3. Open up your respective terminal application and run `ssh purdue_username@data.cs.purdue.edu`.  Replace "purdue_username" with you Purdue username.  It will prompt you to enter your Purdue password. 
+3. Open up your respective terminal application and run `ssh purdue_username@data.cs.purdue.edu`.  Replace "purdue_username" with you Purdue username. It will prompt you to enter your Purdue password. 
 
 3. Run `git clone URL`, replacing URL with what you copied in step 2. (It will ask for GitHub credentials)
 
@@ -43,7 +43,10 @@ Homework 1 is due on 12 February 2020 at 11:59PM EST.
 
 For instance `mv Hello.java Hello2.java` would not be an acceptable answer for renaming Hello.java to Hello2.java, since there does not exist Hello.java in the `ORIGIN` directory. Instead, the proper answer would be `mv Programs/Hello.java Programs/Hello2.java`.
 
-**EVERY ANSWER SHOULD ONLY BE A SINGLE COMMAND!!!!!**
+**EVERY ANSWER SHOULD ONLY BE A SINGLE COMMAND!!!!! <br>
+Please note the difference between a chain of commands and a single command** <br>
+*Chain of Commands:* <br> `mv Example/Count.java Example/Java/Count.java && mv Example/Hello.java Example/Java/Hello.java`<br>
+*Single Command:* <br> `mv Example/*.java Example/Java`
 
 ## Tasks
 
@@ -53,7 +56,7 @@ Rename `Homework/MA165/HW2.txt` to `HW1.txt`.
 
 #### Task 2
 
-Delete `Memes/Spongebob/money.jpeg` (it wasn't funny enough to make it into the memes folder).
+Delete `Memes/SpongeBob/money.jpeg` (it wasn't funny enough to make it into the memes folder).
 
 #### Task 3
 
@@ -93,7 +96,8 @@ List the files and directories above the current working directory.
 
 #### Task 12
 
-Create an alias `wttr` for the command `curl wttr.in`. You will need to create the alias in your `.bashrc` in order to pass the test case with `bash -i grader.sh`. To get the homework points, please put the command you used to create the alias under `# Task 12` in answers.sh.
+Vim customization! If you haven't made any customization yet, you'll find that the vim text editor isn't debugging/readability friendly. Please list *at least 3 commands* you added to your .vimrc file. Please refer to **Terminal_Guide.md** for more details.
+
 
 ## Turning In
 
@@ -104,6 +108,10 @@ Create an alias `wttr` for the command `curl wttr.in`. You will need to create t
 3. Verify that your answers have been submitted by opening your GitHub repository online and checking the `answers.sh` file.
 
 4. You are done! Yay!!!
+
+## Optional: Creating an SSH shortcut
+
+It can be tedious to remember different usernames, hostnames, IP addresses, and sometimes even custon private keys to connect to them. There are 2 methods you can choose for creating a ssh shortcut: using SSH Config or create aliases for your shell. Please refer to **SSH_Shortcut.md** for instructions.
 
 ## Rubric
 
