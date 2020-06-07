@@ -223,6 +223,6 @@ As you can imagine, there are thousands of commands you can leverage in your `~/
 
 A favorite quote from that article that you should definitely adhere to is:
 
-"Don't put any lines in your vimrc that you don't understand."
+>"Don't put any lines in your vimrc that you don't understand."
 
 
