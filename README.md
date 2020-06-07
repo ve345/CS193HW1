@@ -45,7 +45,7 @@ For instance `mv Hello.java Hello2.java` would not be an acceptable answer for r
 
 **EVERY ANSWER SHOULD ONLY BE A SINGLE COMMAND!!!!! <br>
 Please note the difference between a chain of commands and a single command** <br>
-*Chain of commands:* <br> `mv Example/Count.java Example/Java/Count.java && mv Example/Hello.java Example/Java/Hello.java`<br>
+*Chain of Commands:* <br> `mv Example/Count.java Example/Java/Count.java && mv Example/Hello.java Example/Java/Hello.java`<br>
 *Single Command:* <br> `mv Example/*.java Example/Java`
 
 ## Tasks
@@ -98,7 +98,6 @@ List the files and directories above the current working directory.
 
 Vim customization! If you haven't made any customization yet, you'll find that the vim text editor isn't debugging/readability friendly. Please list *at least 3 commands* you added to your .vimrc file. Please refer to **Terminal_Guide.md** for more details.
 
-Create an alias `wttr` for the command `curl wttr.in`. You will need to create the alias in your `.bashrc` in order to pass the test case with `bash -i grader.sh`. To get the homework points, please put the command you used to create the alias under `# Task 12` in answers.sh.
 
 ## Turning In
 
