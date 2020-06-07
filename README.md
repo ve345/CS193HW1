@@ -94,7 +94,7 @@ List the files and directories above the current working directory.
 
 #### Task 12
 
-Vim customization! If you haven't made any customization yet, you'll find that the vim text editor isn't debugging/readability friendly. Please list *at least 3 commands* to your .vimrc file. Please refer to Terminal_Guide.md for more details.
+Vim customization! If you haven't made any customization yet, you'll find that the vim text editor isn't debugging/readability friendly. Please list *at least 3 commands* you added to your .vimrc file. Please refer to **Terminal_Guide.md** for more details.
 
 Create an alias `wttr` for the command `curl wttr.in`. You will need to create the alias in your `.bashrc` in order to pass the test case with `bash -i grader.sh`. To get the homework points, please put the command you used to create the alias under `# Task 12` in answers.sh.
 
@@ -110,7 +110,7 @@ Create an alias `wttr` for the command `curl wttr.in`. You will need to create t
 
 ## Optional: Creating an SSH shortcut
 
-It can be tedious to remember different usernames, hostnames, IP addresses, and sometimes even custon private keys to connect to them. There are 2 methods you can choose for creating a ssh shortcut: using SSH Config or create aliases for your shell. Please refer to Terminal_Guide.md for instructions.
+It can be tedious to remember different usernames, hostnames, IP addresses, and sometimes even custon private keys to connect to them. There are 2 methods you can choose for creating a ssh shortcut: using SSH Config or create aliases for your shell. Please refer to **SSH_Shortcut.md** for instructions.
 
 ## Rubric
 
