@@ -35,3 +35,5 @@ Navigate to your `~/.bashrc` file: `vim ~/.bashrc`
 Here, you can add as many shortcuts as you want, similar to your `~/.vimrc` file. To add an alias, here is the general structure: <br> `alias <shortcut>=“<command>”` <br>
 ![alias_bashrc](https://github.com/Purdue-CS193/CS193HW2/blob/master/Screenshots/alias_ssh.png) <br>
 Save the file, and tell bash to reload: `source ~/.bashrc`
+<br>
+You should be able to now SSH into data by just typing: `data`
