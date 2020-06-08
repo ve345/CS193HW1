@@ -98,7 +98,7 @@ List the files and directories above the current working directory.
 
 #### Task 12
 
-Vim or nano customization! If you haven't made any customization yet, you'll find that the vim text editor isn't debugging/readability friendly. Please list *at least 3 commands* you added to your `~/.vimrc` or `~/.nanorc` file. Please refer to **Terminal_Guide.md** for more details.
+Vim or nano customization! If you haven't made any customization yet, you'll find that the vim/nano text editor isn't debugging/readability friendly. By editing your `~/.vimrc` or `~/.nanorc` file, you can create a more readable and friendly text editor! Please list *at least 3 commands* you added to your `~/.vimrc` or `~/.nanorc` file. Please refer to **Terminal_Guide.md** for more details.
 
 
 ## Turning In
