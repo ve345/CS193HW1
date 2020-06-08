@@ -21,3 +21,5 @@ From here, you can create shortcuts. You can specify the hostname, username, por
 ### Step 4
 Now you can simply SSH into `data`:
 ![ssh data](https://github.com/Purdue-CS193/CS193HW2/blob/master/Screenshots/ssh_data.png)
+
+If this doesn't work, try changing the permissions of the `config` file by: `chmod 600 ~/.ssh/config` 
