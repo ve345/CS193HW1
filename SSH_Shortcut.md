@@ -32,6 +32,6 @@ Navigate to your `~/.bashrc` file: `vim ~/.bashrc`
 ![bashrc](https://github.com/Purdue-CS193/CS193HW2/blob/master/Screenshots/bashrc.png)
 
 ### Step 2
-Here, you can add as many shortcuts as you want, similar to your `~/.vimrc` file. 
+Here, you can add as many shortcuts as you want, similar to your `~/.vimrc` file. <br>
 To add an alias, here is the general structure: `alias <shortcut>=“<command>”` <br>
 ![alias_bashrc](https://github.com/Purdue-CS193/CS193HW2/blob/master/Screenshots/alias_ssh.png)
