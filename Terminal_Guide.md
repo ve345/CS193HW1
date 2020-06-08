@@ -225,7 +225,7 @@ A favorite quote from that article that you should definitely adhere to is:
 
 >"Don't put any lines in your vimrc that you don't understand."
 
-For those who are using nano, here is an article about [nano customization](https://www.nano-editor.org/dist/v2.1/nanorc.5.html)
+For those who are using nano, here is an article about [nano customization](https://www.nano-editor.org/dist/v2.1/nanorc.5.html). Similar to Vim, you add your commands in your `~/.nanorc` file.
 
 
 
