@@ -8,3 +8,4 @@ SSH on \*NIX machines, such as Linux or Mac, have default shortcut functionality
 
 ### Step 1
 Navigate to your .ssh folder on your local machine: `cd ~/.ssh`
+![CD to SSH](/Screenshots/"CD to SSH.png")
