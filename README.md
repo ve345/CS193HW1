@@ -19,7 +19,7 @@ Homework 1 is due on 18 September 2020 at 11:59PM EDT.
 
 
 
-## Getting Start
+## Getting Started
 
 1. Open a terminal window
    
@@ -36,6 +36,8 @@ Homework 1 is due on 18 September 2020 at 11:59PM EDT.
 3. Run `git clone URL`, replacing URL with what you copied in step 2. (It will ask for GitHub credentials)
 
 4. You are ready to go!  Start typing your answers in `answers.sh`.  To edit `answers.sh` type in either `vim answers.sh` or `nano answers.sh`.  Use the editor that you prefer.  
+
+5. Take a look at the **Terminal_Guide.md** file in the repository. This document reviews the content found in lecture. Everything you need to complete this assignment can be found there.  
 
 ## Important Notes!!!! (Please read!!!)
 
