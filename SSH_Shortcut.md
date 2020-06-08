@@ -28,5 +28,10 @@ If this doesn't work, try changing the permissions of the `config` file by: `chm
 You can use this method for creating any type of shortcuts you want. Aliases are similar to keyboard shortcuts or abbreviations, they're great for simple commands.
 
 ### Step 1
-Navigate to your `~/.bashrc` file:
+Navigate to your `~/.bashrc` file: `vim ~/.bashrc`
 ![bashrc](https://github.com/Purdue-CS193/CS193HW2/blob/master/Screenshots/bashrc.png)
+
+### Step 2
+Here, you can add as many shortcuts as you want, similar to your `~/.vimrc` file. 
+To add an alias, here is the general structure: `alias <shortcut>=“<command>”`
+![alias_bashrc](https://github.com/Purdue-CS193/CS193HW2/blob/master/Screenshots/alias_ssh.png)
