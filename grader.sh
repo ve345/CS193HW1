@@ -149,7 +149,7 @@ fi
 
 
 # Task 12
-echo -e "Task 12 will be manually graded by your TA"
+echo -e "\n\e[1;34mTask 12 will be manually graded by your TA\e[0m"
 
 
 echo -e "\e[92mFinal Score: $POINTS/20\e[0m"
