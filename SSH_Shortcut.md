@@ -23,3 +23,10 @@ Now you can simply SSH into `data`:
 ![ssh data](https://github.com/Purdue-CS193/CS193HW2/blob/master/Screenshots/ssh_data.png)
 
 If this doesn't work, try changing the permissions of the `config` file by: `chmod 600 ~/.ssh/config` 
+
+## Method 2: Create Aliases for Your Terminal
+You can use this method for creating any type of shortcuts you want. Aliases are similar to keyboard shortcuts or abbreviations, they're great for simple commands.
+
+### Step 1
+Navigate to your `~/.bashrc` file:
+![bashrc](https://github.com/Purdue-CS193/CS193HW2/blob/master/Screenshots/bashrc.png)
