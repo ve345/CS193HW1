@@ -8,4 +8,4 @@ SSH on \*NIX machines, such as Linux or Mac, have default shortcut functionality
 
 ### Step 1
 Navigate to your .ssh folder on your local machine: `cd ~/.ssh`
-![CD to SSH](https://github.com/Purdue-CS193/CS193HW2/blob/master/Screenshots/CD%20to%20SSH.png)
+![CD to SSH](https://github.com/Purdue-CS193/CS193HW2/blob/master/Screenshots/CD_to_SSH.png)
