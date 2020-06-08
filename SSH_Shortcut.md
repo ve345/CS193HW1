@@ -17,3 +17,7 @@ You'll need to create a file (or open the file) called `config`: `vim config`
 ### Step 3
 From here, you can create shortcuts. You can specify the hostname, username, port, and the private key. Here's how you would do for `data`:
 ![config](https://github.com/Purdue-CS193/CS193HW2/blob/master/Screenshots/config.png)
+
+### Step 4
+Now you can simply SSH into `data`:
+![ssh data](https://github.com/Purdue-CS193/CS193HW2/blob/master/Screenshots/ssh_data.png)
