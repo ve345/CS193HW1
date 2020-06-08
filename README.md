@@ -96,7 +96,7 @@ List the files and directories above the current working directory.
 
 #### Task 12
 
-Vim customization! If you haven't made any customization yet, you'll find that the vim text editor isn't debugging/readability friendly. Please list *at least 3 commands* you added to your `~/.vimrc` file. Please refer to **Terminal_Guide.md** for more details.
+Vim or nano customization! If you haven't made any customization yet, you'll find that the vim text editor isn't debugging/readability friendly. Please list *at least 3 commands* you added to your `~/.vimrc` or `~/.nanorc` file. Please refer to **Terminal_Guide.md** for more details.
 
 
 ## Turning In
