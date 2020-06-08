@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 clear
-echo -e "\e[1;34mWelcome the CS 193 Homework 2 Grader!\e[0m"
+echo -e "\e[1;34mWelcome the CS 193 Homework 1 Grader!\e[0m"
 source ~/.bashrc
 
 POINTS=0
@@ -149,13 +149,7 @@ fi
 
 
 # Task 12
-echo -e "\n\e[1;34mTask 12\e[0m"
+echo -e "Task 12 will be manually graded by your TA"
 
-if [ "$(alias wttr)" = "alias wttr='curl wttr.in'" ] ; then 
-    echo -e "\e[92mAlias correct: +2 points\e[0m"
-    ((POINTS=$POINTS + 2))
-else 
-    echo -e "\e[91mAlias incorrect\e[0m" 
-fi
 
 echo -e "\e[92mFinal Score: $POINTS/20\e[0m"
