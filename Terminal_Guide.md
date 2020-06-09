@@ -163,7 +163,7 @@ The files that are to be created
 
 `touch ~/Documents/file1.txt ~/CS193/HW2/file2.txt`
 
-## Other Content
+## Other Contents
 
 ### Files and Folders with Spaces
 
