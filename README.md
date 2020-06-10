@@ -66,7 +66,7 @@ Move `fafsa.jpg` from the Star Wars meme folder to `Memes/SpongeBob` (SpongeBob 
 
 #### Task 4
 
-Delete the `Homework/CS191` directory.
+Delete the `Homework/CS191` directory. *Hint: please refer to the rm section of the Terminal Guide if you're stuck*
 
 #### Task 5
 
@@ -78,7 +78,8 @@ Move `Programs/Age.cpp` to the newly created `C++` directory made in Task 5.
 
 #### Task 7
 
-Copy the `Programs/Java` directory into the `Homework/CS180` folder, while renaming the `Java` directory `Project_1`.
+Copy the `Programs/Java` directory into the `Homework/CS180` folder, while renaming the `Java` directory `Project_1`. <br>
+*Hint: please refer to the cp section examples for help*
 
 #### Task 8
 
