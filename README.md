@@ -101,6 +101,11 @@ List the files and directories above the current working directory.
 
 Vim or nano customization! If you haven't made any customization yet, you'll find that the vim/nano text editor isn't debugging/readability friendly. By editing your `~/.vimrc` or `~/.nanorc` file, you can create a more readable and friendly text editor! Please list *at least 3 commands* you added to your `~/.vimrc` or `~/.nanorc` file. Please refer to **Terminal_Guide.md** for more details.
 
+## Optional (Just for Kicks 🙃): Creating an SSH shortcut <br>
+
+*NOTE: This part is not for any points, strictly optional* <br>
+
+It can be tedious to remember different usernames, hostnames, IP addresses, and sometimes even custon private keys to connect to them. There are 2 methods you can choose for creating a ssh shortcut: using SSH Config or create aliases for your shell. Please refer to **SSH_Shortcut.md** for instructions.
 
 ## Turning In
 
@@ -112,9 +117,6 @@ Vim or nano customization! If you haven't made any customization yet, you'll fin
 
 4. You are done! Yay!!!
 
-## Optional: Creating an SSH shortcut
-
-It can be tedious to remember different usernames, hostnames, IP addresses, and sometimes even custon private keys to connect to them. There are 2 methods you can choose for creating a ssh shortcut: using SSH Config or create aliases for your shell. Please refer to **SSH_Shortcut.md** for instructions.
 
 ## Rubric
 
