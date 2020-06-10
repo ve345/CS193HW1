@@ -8,7 +8,7 @@ Prints path of current directory. (Think: what is the address of the folder I’
 
 #### Example
 
-`$ pwd`
+`pwd`
 
 
 ## ls (List)
@@ -29,7 +29,7 @@ Path to the folder you want to see the contents of (Leave blank to see current f
 
 #### Example
 
-`$ ls -al`
+`ls -al`
 
 ## cd (Change Directory)
 
@@ -88,9 +88,9 @@ Move an existing file somewhere else.  It can also be used to rename files.
 
 #### Example
 
-`$ mv ~/Documents/source/file.txt ~/Documents/destination/file.txt`
+`mv ~/Documents/source/file.txt ~/Documents/destination/file.txt`
 
-`$ mv ~/old_name.txt ~/new_name.txt`
+`mv ~/old_name.txt ~/new_name.txt`
 
 ## cp (Copy)
 
@@ -106,9 +106,9 @@ Copy files or folders to a new location
 
 #### Example
 
-`$ cp ~/Documents/source/file.txt ~/Documents/destination/file.txt`
+`cp ~/Documents/source/file.txt ~/Documents/destination/file.txt`
 
-`$ cp ~/Desktop/Name.java ~/Desktop/Age.java ~/CS180/Homework_1`
+`cp ~/Desktop/Name.java ~/Desktop/Age.java ~/CS180/Homework_1`
 
 ## clear
 
@@ -129,7 +129,7 @@ See what programs are currently running
 
 #### Example
 
-`$ top`
+`top`
 
 ## killall
 
