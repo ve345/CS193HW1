@@ -58,7 +58,7 @@ Rename `Homework/MA165/HW2.txt` to `HW1.txt`.
 
 #### Task 2
 
-Delete `Memes/SpongeBob/money.jpeg` (it wasn't funny enough to make it into the memes folder).
+Delete `Memes/SpongeBob/money.jpeg` (it wasn't funny enough to make it into the Memes folder).
 
 #### Task 3
 
