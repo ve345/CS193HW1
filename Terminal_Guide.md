@@ -219,7 +219,7 @@ Your `~/.vimrc` (Vim Run Control) file controls what commands will run every tim
 
 You can disable this at any time within a file by typing `:set nonumber` within Vim, or by deleting it from your `~/.vimrc` and then re-opening Vim again.
 
-As you can imagine, there are thousands of commands you can leverage in your `~/.vimrc` file. For a great resource on customization, read [this article](https://dougblack.io/words/a-good-vimrc.html). 
+As you can imagine, there are thousands of commands you can leverage in your `~/.vimrc` file. For a great resource on customization, read [this article](https://docs.j7k6.org/my-minimal-vimrc/). 
 
 A favorite quote from that article that you should definitely adhere to is:
 
