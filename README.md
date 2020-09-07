@@ -12,7 +12,7 @@ Homework 1 is due on 18 September 2020 at 11:59PM EDT.
 
 ## When will I know that I am done?
 
-* You will be finished with the assignment when you have a functional **SINGLE COMMAND** for each of the 12 tasks in your `answers.sh` file.
+* You will be finished with the assignment when you have a functional **SINGLE COMMAND** for each of the 11 tasks in your `answers.sh` file.
 
 * In order to test your commands, run `bash -i grader.sh` in terminal. This program will let you know which command is not functionally properly.
    * Please note that the grade you receive with the ` bash -i grader.sh` is not your guaranteed grade on homework 1. Your TA will still go through your commands to ensure that you only use a single command for each of the tasks.
