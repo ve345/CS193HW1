@@ -38,7 +38,7 @@ cd ORIGIN
 
 # Task 12
 : '
-Type your vim/nano customizations here:
+Type your vim/nano customizations below:
 
 
 
