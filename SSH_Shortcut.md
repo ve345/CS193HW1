@@ -28,7 +28,7 @@ If this doesn't work, try changing the permissions of the `config` file by: `chm
 You can use this method for creating any type of shortcuts you want. Aliases are similar to keyboard shortcuts or abbreviations, they're great for simple commands.
 
 ### Step 1
-Navigate to your `~/.bashrc` file: `vim ~/.bashrc`
+Navigate to your `~/.bashrc` file: `vim ~/.bashrc` <br>
 ![bashrc](https://github.com/Purdue-CS193/CS193HW1/blob/master/Screenshots/bashrc.png)
 
 ### Step 2
