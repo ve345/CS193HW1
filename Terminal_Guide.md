@@ -163,6 +163,24 @@ The files that are to be created
 
 `touch ~/Documents/file1.txt ~/CS193/HW2/file2.txt`
 
+## mkdir
+
+#### Description
+
+Creates a new empty directory in the location specified in the argument
+
+#### Arguments
+
+The name/location of the directory that is to be created
+
+#### Syntax
+
+`mkdir directory-name`
+
+#### Example
+
+`mkdir Documents/Code`
+
 ## Other Contents
 
 ### Files and Folders with Spaces
