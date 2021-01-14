@@ -8,7 +8,7 @@ For this assignment, you will be making a basic shell script to make some change
 
 ## When is this due?
 
-Homework 1 is due on 12 February 2021 at 11:59PM EDT.
+Homework 1 is due on Friday 12 February 2021 at 11:59PM EDT.
 
 ## When will I know that I am done?
 
