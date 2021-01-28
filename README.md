@@ -35,9 +35,13 @@ Homework 1 is due on Friday 12 February 2021 at 11:59PM EDT.
 
 3. Run `git clone URL`, replacing URL with what you copied in step 2. (It will ask for GitHub credentials)
 
-4. You are ready to go!  Start typing your answers in `answers.sh`.  To edit `answers.sh` type in either `vim answers.sh` or `nano answers.sh`.  Use the editor that you prefer.  
+4. Run `cd homework-1-USERNAME`, replacing USERNAME with your username (eg. "ahn99") to naviage to the directory with our answers.sh worksheet
 
-5. Take a look at the **Terminal_Guide.md** file in the repository. This document reviews the content found in lecture. Everything you need to complete this assignment can be found there.  
+5. Run `ls` and make sure you see `answers.sh`.  Don't worry about any other files for now.
+
+6. You are ready to go!  Start typing your answers in `answers.sh`.  To edit `answers.sh` type in either `vim answers.sh` or `nano answers.sh`.  Use the editor that you prefer.  
+
+7. Take a look at the **Terminal_Guide.md** file in the repository. This document reviews the content found in lecture. Everything you need to complete this assignment can be found there.  
 
 ## Important Notes!!!! (Please read!!!)
 
@@ -78,8 +82,9 @@ Move `Programs/Age.cpp` to the newly created `C++` directory made in Task 5.
 
 #### Task 7
 
-Copy the `Programs/Java` directory into the `Homework/CS180` folder, while renaming the `Java` directory `Project_1`. <br>
+Copy the `Programs/Java` directory into the `Homework/CS180` folder, while renaming the copy to `Project_1`. <br>
 *Hint: please refer to the cp section examples of the Terminal Guide for help*
+*The copied directory should have a relative pathname of "homework/CS180/Project_1"*
 
 #### Task 8
 
