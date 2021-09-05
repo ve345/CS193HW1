@@ -21,7 +21,16 @@ Homework 1 is due on Friday, September 17th at 11:59PM EDT.
 
 ## Getting Started
 
-1. Open a terminal window
+1. Generate a personal access token <br/>
+Visit https://github.com/settings/profile and go to Developer settings --> Personal access tokens
+
+![Image description: Under the Personal access tokens page, in GitHub settings, there is a red box around the "Generate new token" button](https://github.com/Purdue-CS193/CS193HW1/blob/master/Screenshots/Generate_tokens.png)
+
+Select the appropriate scopes for your token. Please make sure you select **repo** as this gives you access to write, read, etc. with public and private repos. Feel free to select all the scopes just in case you might need them in the future. 
+
+![Image description: A list of possible scopes for a new personal access token. All of the options are selected for the token, "My token".](https://github.com/Purdue-CS193/CS193HW1/blob/master/Screenshots/List_of_Selections.png)
+
+2. Open a terminal window
    
    - Windows: Open up PowerShell
    
@@ -29,19 +38,19 @@ Homework 1 is due on Friday, September 17th at 11:59PM EDT.
    
    - If you are having issues, it might just be easier to use a lab machine in Lawson or Haas
 
-2. Click the green "Clone or download" button on this GitHub repository and copy the URL. Make sure you are using the option "Clone with HTTPS".
+3. Click the green "Clone or download" button on this GitHub repository and copy the URL. Make sure you are using the option "Clone with HTTPS".
 
-3. Open up your respective terminal application and run `ssh purdue_username@data.cs.purdue.edu`.  Replace "purdue_username" with you Purdue username. It will prompt you to enter your Purdue password. 
+4. Open up your respective terminal application and run `ssh purdue_username@data.cs.purdue.edu`.  Replace "purdue_username" with you Purdue username. It will prompt you to enter your Purdue password. 
 
-3. Run `git clone URL`, replacing URL with what you copied in step 2. (It will ask for GitHub credentials)
+5. Run `git clone URL`, replacing URL with what you copied in step 2. (It will ask for GitHub credentials)
 
-4. Run `cd homework-1-USERNAME`, replacing USERNAME with your username (eg. "ahn99") to naviage to the directory with our answers.sh worksheet
+6. Run `cd homework-1-USERNAME`, replacing USERNAME with your username (eg. "ahn99") to naviage to the directory with our answers.sh worksheet
 
-5. Run `ls` and make sure you see `answers.sh`.  Don't worry about any other files for now.
+7. Run `ls` and make sure you see `answers.sh`.  Don't worry about any other files for now.
 
-6. You are ready to go!  Start typing your answers in `answers.sh`.  To edit `answers.sh` type in either `vim answers.sh` or `nano answers.sh`.  Use the editor that you prefer.  
+8. You are ready to go!  Start typing your answers in `answers.sh`.  To edit `answers.sh` type in either `vim answers.sh` or `nano answers.sh`.  Use the editor that you prefer.  
 
-7. Take a look at the **Terminal_Guide.md** file in the repository. This document reviews the content found in lecture. Everything you need to complete this assignment can be found there.  
+9. Take a look at the **Terminal_Guide.md** file in the repository. This document reviews the content found in lecture. Everything you need to complete this assignment can be found there.  
 
 ## Important Notes!!!! (Please read!!!)
 
