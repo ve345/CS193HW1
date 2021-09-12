@@ -93,7 +93,7 @@ Move `Programs/Age.cpp` to the newly created `C++` directory made in Task 5.
 
 Copy the `Programs/Java` directory into the `Homework/CS180` folder, while renaming the copy to `Project_1`. <br>
 *Hint: please refer to the cp section examples of the Terminal Guide for help* <br>
-*The copied directory should have a relative pathname of "homework/CS180/Project_1"*
+*The copied directory should have a relative pathname of "Homework/CS180/Project_1"*
 
 #### Task 8
 
