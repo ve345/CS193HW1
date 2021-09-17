@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 clear
-echo -e "\e[1;34mWelcome the CS 193 Homework 1 Grader!\e[0m"
+echo -e "\e[1;34mWelcome to the CS 193 Homework 1 Grader!\e[0m"
 source ~/.bashrc
 
 POINTS=0
